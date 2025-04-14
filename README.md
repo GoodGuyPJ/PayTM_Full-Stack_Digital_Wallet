@@ -1,6 +1,6 @@
-# PayZap
+# PayTM
 
-PayZap is an end-to-end payment wallet clone built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It allows users to sign up, sign in, view their dashboard, and conduct money transfers with real-time balance updates.
+PayTM is an end-to-end payment wallet clone built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It allows users to sign up, sign in, view their dashboard, and conduct money transfers with real-time balance updates.
 
 ## Setup
 
